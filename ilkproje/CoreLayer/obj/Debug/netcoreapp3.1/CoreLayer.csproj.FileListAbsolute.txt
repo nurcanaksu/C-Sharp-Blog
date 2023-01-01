@@ -1,0 +1,9 @@
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.deps.json
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.dll
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.pdb
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.csprojAssemblyReference.cache
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.AssemblyInfo.cs
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.dll
+C:\Users\nurcan\source\repos\ilkproje\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.pdb

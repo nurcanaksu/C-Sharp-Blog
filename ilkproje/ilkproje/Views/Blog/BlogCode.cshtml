@@ -1,0 +1,31 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Blog>
+
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<h1>
+    BLOG CODE SAYFASI
+</h1>
+
+<div>
+
+    @foreach (var i in Model)
+    {
+        @if (i.BlogID == 3)
+        {
+            <h2> bLOG İD Sİ 3</h2>
+        }
+        else if (i.BlogID == 2)
+        {
+            <h2>BLOG İD Sİ 2</h2>
+        }
+        else
+        {
+            <h2>hiç biri babuş</h2>
+        }
+    }
+
+</div>
+
+

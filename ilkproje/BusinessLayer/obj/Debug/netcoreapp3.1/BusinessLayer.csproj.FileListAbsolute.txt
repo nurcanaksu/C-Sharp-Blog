@@ -1,0 +1,14 @@
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\nurcan\source\repos\ilkproje\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
