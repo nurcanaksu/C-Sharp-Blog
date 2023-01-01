@@ -13,7 +13,6 @@ Asp.Net Core ile yazılan C# Blog Sitesi
 ----BLOG DETAY SAYFASI----
 ![detaysayfasi](https://github.com/nurcanaksu/C-Sharp-Blog/blob/main/detaysayfasi.PNG)
 
-
 ----BLOG YORUMLARI----
 ![yorum](https://github.com/nurcanaksu/C-Sharp-Blog/blob/main/yorumdetaylar.PNG)
 
