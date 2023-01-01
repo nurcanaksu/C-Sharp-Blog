@@ -1,4 +1,8 @@
 # C-Sharp-Blog
 Asp.Net Core ile yazılan C# Blog Sitesi
 
-![girisekranii](https://github.com/nurcanaksu/C-Sharp-Blog/blob/main/footer.PNG)
+
+![navbar](https://github.com/nurcanaksu/C-Sharp-Blog/blob/main/navbar.PNG)
+![iki](https://github.com/nurcanaksu/C-Sharp-Blog/blob/main/iki.PNG)
+![uc](https://github.com/nurcanaksu/C-Sharp-Blog/blob/main/uc.PNG)
+![footer](https://github.com/nurcanaksu/C-Sharp-Blog/blob/main/footer.PNG)
